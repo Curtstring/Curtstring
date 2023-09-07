@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Curtstring
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- 📫 How to reach me sanokunn8@gmail.com
